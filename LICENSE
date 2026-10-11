@@ -1,0 +1,96 @@
+Copyright (c) 2026 Renan Augusto dos Santos. Todos os direitos reservados.
+
+Órbita — Observatório de Ufologia — Licença proprietária
+
+Este projeto destina-se a portfólio e avaliação profissional.
+A disponibilização do código não concede nenhuma licença de uso.
+
+ABRANGÊNCIA
+Estes termos abrangem o conteúdo autoral do projeto: código-fonte,
+arquitetura e organização do código, identidade visual Órbita, ilustrações
+SVG autorais, interface e fluxos de interação e textos autorais.
+
+É PERMITIDO, sem autorização prévia:
+  1. Visualizar o código-fonte e executar a aplicação para avaliá-la.
+  2. Fazer fork pelo próprio GitHub, exclusivamente na medida exigida pelos
+     Termos de Serviço do GitHub, sem uso do conteúdo fora da plataforma.
+  3. Citar trechos curtos para fins de crítica, estudo ou notícia, com
+     indicação do autor e link para o repositório, observadas as exceções
+     previstas na legislação aplicável.
+
+NÃO É PERMITIDO, sem autorização prévia e por escrito do autor:
+  1. Copiar, reproduzir ou redistribuir o código, no todo ou em parte.
+  2. Modificar o código ou criar trabalhos derivados, inclusive reescrevendo-o
+     com outra linguagem, framework ou ferramenta a partir deste projeto.
+  3. Usar o código, a identidade visual Órbita, as ilustrações, a interface ou
+     os textos autorais em produtos, serviços, sites, sistemas ou portfólios
+     de terceiros.
+  4. Apresentar o projeto, ou parte dele, como trabalho próprio ou de outra
+     pessoa, em portfólios, processos seletivos ou propostas comerciais.
+  5. Usar o projeto, no todo ou em parte, para fins comerciais.
+  6. Coletar o conteúdo autoral deste projeto para treinar, ajustar ou avaliar
+     modelos de inteligência artificial, ou incluí-lo em conjuntos de dados.
+  7. Sublicenciar, vender ou ceder qualquer direito sobre o projeto.
+
+FONTES E MATERIAIS DE TERCEIROS
+As fontes DM Sans e Space Grotesk, carregadas pelo Google Fonts, mantêm suas
+próprias licenças SIL Open Font License. Documentos, marcas e materiais dos
+sites de referência pertencem aos respectivos titulares. Estes termos não
+alteram esses direitos, não abrangem fatos históricos ou dados públicos e
+não implicam afiliação ou endosso das instituições citadas.
+
+Pedidos de autorização: contato@renanaugusto.com.br · https://renanaugusto.com.br
+
+O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIAS DE
+QUALQUER TIPO. EM NENHUMA HIPÓTESE O AUTOR SERÁ RESPONSÁVEL POR DANOS
+DECORRENTES DO USO DO SOFTWARE, NOS LIMITES DA LEGISLAÇÃO APLICÁVEL.
+
+Estes termos são regidos pelas leis da República Federativa do Brasil.
+
+-------------------------------------------------------------------------------
+
+English
+
+Copyright (c) 2026 Renan Augusto dos Santos. All rights reserved.
+
+Órbita — Ufology Observatory — Proprietary license
+
+This project is intended for portfolio and professional evaluation.
+Making the source code available does not grant any license to use it.
+
+SCOPE
+These terms cover original project content: source code, code architecture
+and organization, Órbita visual identity, original SVG illustrations,
+interface and interaction flows, and original copy.
+
+You MAY, without prior permission:
+  1. View the source code and run the application to evaluate it.
+  2. Fork it on GitHub solely to the extent required by GitHub's Terms of
+     Service, without using the content outside the platform.
+  3. Quote short excerpts for criticism, study or news reporting, crediting
+     the author and linking to the repository, subject to applicable law.
+
+You MAY NOT, without the author's prior written permission:
+  1. Copy, reproduce or redistribute the code, in whole or in part.
+  2. Modify it or create derivative works, including rewriting it in another
+     language, framework or tool based on this project.
+  3. Use the code, Órbita visual identity, illustrations, interface or original
+     copy in third-party products, services, websites, systems or portfolios.
+  4. Present the project, or any part of it, as your own work or someone else's
+     in portfolios, hiring processes or business proposals.
+  5. Use the project, in whole or in part, for commercial purposes.
+  6. Collect original project content to train, fine-tune or evaluate AI
+     models, or include it in datasets.
+  7. Sublicense, sell or transfer any rights to the project.
+
+Third-party fonts and reference materials remain subject to their own licenses
+and rights. These terms do not cover historical facts or public data and do
+not imply affiliation with or endorsement by the referenced institutions.
+
+Permission requests: contato@renanaugusto.com.br · https://renanaugusto.com.br
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. TO THE EXTENT
+PERMITTED BY APPLICABLE LAW, THE AUTHOR SHALL NOT BE LIABLE FOR DAMAGES
+ARISING FROM ITS USE.
+
+These terms are governed by the laws of the Federative Republic of Brazil.
